@@ -1,4 +1,4 @@
-class First {
+class CompileError {
   static main(Strings[] args) {
     /*
      * FORMÅL:

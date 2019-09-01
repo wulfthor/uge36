@@ -1,4 +1,4 @@
-class Fifth {
+class Escape {
   public static void main(String[] args) {
     /*
      * FORMÅL:
@@ -21,9 +21,6 @@ class Fifth {
      * "        }
      * "}
      *
-     * ekstra opgave)
-     * udskriv flg: "Mit nye firma hedder: © MyBusiness"
-     * hint: java println unicode
      */
 
     //Løsning
@@ -40,8 +37,6 @@ class Fifth {
     System.out.println("\t\tSystem.out.println(\"Hej Verden\");");
     System.out.println("\t}");
     System.out.println("}");
-    //ekstra opgave)
-    System.out.println("Mit nye firma hedder: \u00A9 MyBusiness");
 
   }
 }

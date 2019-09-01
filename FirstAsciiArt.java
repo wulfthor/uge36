@@ -1,4 +1,4 @@
-class Seventh {
+class FirstAsciiArt {
   public static void main(String[] args) {
     /*
      * FORMÅL: 

@@ -1,4 +1,4 @@
-class FFourth {
+class VarsAndOperators {
   public static void main(String[] args) {
     /*
      * FORMÅL:
@@ -65,6 +65,8 @@ class FFourth {
     // unicode decimal-værdier for 9 og 8. Men pointen er at vise at selv 
     // meget simple kombinationer af variabeltyper og operatorer kan vise
     // sig at give mystiske resultater.
+    // Så man skal ikke gøre meget andet end køre koden og undre sig. 
+    // Unicode kommer senere.
     //
     //int mystiskeA = 9;
     //int mystiskeB = 8;
