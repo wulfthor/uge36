@@ -6,7 +6,7 @@ class FirstAsciiArt {
      *
      * OPGAVEN:
      * 1)Find ud af hvor lang tabulator-karakteren er
-     * 2)Tegn flg figur vha \t, | og *:
+     * 2)Tegn flg figur vha \t, | og #:
      *
 *|								|
 *|				   #   				|
@@ -15,6 +15,7 @@ class FirstAsciiArt {
 *|				#######				|
 *|			       #########     			|
 *|			      ############   			|
+*|			                                        |
      *
      */
 
